@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; 
 import { Avatar, Image } from 'antd'
 
 export default function ChatBoxSender({avatar, user, message}) {
